@@ -10,6 +10,7 @@ namespace Observable_Collections
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Observable_Collections");
             System.Collections.ObjectModel.ObservableCollection<string> names = new System.Collections.ObjectModel.ObservableCollection<string>();
             names.CollectionChanged += Names_CollectionChanged;
             names.Add("Alice");
