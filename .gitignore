@@ -1,6 +1,7 @@
 bin/
 obj/
 .vs/
-*.slnx
 *.user
-*.csproj
+packages/
+*.suo
+*.exe
