@@ -1,7 +1,0 @@
-C:\Users\m7ama\OneDrive\Desktop\Course22\Course22-Data-Structures-Level2\SortedSet\SortedSet\bin\Debug\SortedSet.exe.config
-C:\Users\m7ama\OneDrive\Desktop\Course22\Course22-Data-Structures-Level2\SortedSet\SortedSet\bin\Debug\SortedSet.exe
-C:\Users\m7ama\OneDrive\Desktop\Course22\Course22-Data-Structures-Level2\SortedSet\SortedSet\bin\Debug\SortedSet.pdb
-C:\Users\m7ama\OneDrive\Desktop\Course22\Course22-Data-Structures-Level2\SortedSet\SortedSet\obj\Debug\SortedSet.csproj.AssemblyReference.cache
-C:\Users\m7ama\OneDrive\Desktop\Course22\Course22-Data-Structures-Level2\SortedSet\SortedSet\obj\Debug\SortedSet.csproj.CoreCompileInputs.cache
-C:\Users\m7ama\OneDrive\Desktop\Course22\Course22-Data-Structures-Level2\SortedSet\SortedSet\obj\Debug\SortedSet.exe
-C:\Users\m7ama\OneDrive\Desktop\Course22\Course22-Data-Structures-Level2\SortedSet\SortedSet\obj\Debug\SortedSet.pdb

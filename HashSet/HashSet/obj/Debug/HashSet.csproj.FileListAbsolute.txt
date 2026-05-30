@@ -1,7 +1,0 @@
-C:\Users\m7ama\OneDrive\Desktop\Course22\Course22-Data-Structures-Level2\HashSet\HashSet\bin\Debug\HashSet.exe.config
-C:\Users\m7ama\OneDrive\Desktop\Course22\Course22-Data-Structures-Level2\HashSet\HashSet\bin\Debug\HashSet.exe
-C:\Users\m7ama\OneDrive\Desktop\Course22\Course22-Data-Structures-Level2\HashSet\HashSet\bin\Debug\HashSet.pdb
-C:\Users\m7ama\OneDrive\Desktop\Course22\Course22-Data-Structures-Level2\HashSet\HashSet\obj\Debug\HashSet.csproj.AssemblyReference.cache
-C:\Users\m7ama\OneDrive\Desktop\Course22\Course22-Data-Structures-Level2\HashSet\HashSet\obj\Debug\HashSet.csproj.CoreCompileInputs.cache
-C:\Users\m7ama\OneDrive\Desktop\Course22\Course22-Data-Structures-Level2\HashSet\HashSet\obj\Debug\HashSet.exe
-C:\Users\m7ama\OneDrive\Desktop\Course22\Course22-Data-Structures-Level2\HashSet\HashSet\obj\Debug\HashSet.pdb

@@ -1,7 +1,0 @@
-C:\Users\m7ama\OneDrive\Desktop\Course22\Course22-Data-Structures-Level2\Observable-Collections\Observable-Collections\bin\Debug\Observable-Collections.exe.config
-C:\Users\m7ama\OneDrive\Desktop\Course22\Course22-Data-Structures-Level2\Observable-Collections\Observable-Collections\bin\Debug\Observable-Collections.exe
-C:\Users\m7ama\OneDrive\Desktop\Course22\Course22-Data-Structures-Level2\Observable-Collections\Observable-Collections\bin\Debug\Observable-Collections.pdb
-C:\Users\m7ama\OneDrive\Desktop\Course22\Course22-Data-Structures-Level2\Observable-Collections\Observable-Collections\obj\Debug\Observable-Collections.csproj.AssemblyReference.cache
-C:\Users\m7ama\OneDrive\Desktop\Course22\Course22-Data-Structures-Level2\Observable-Collections\Observable-Collections\obj\Debug\Observable-Collections.csproj.CoreCompileInputs.cache
-C:\Users\m7ama\OneDrive\Desktop\Course22\Course22-Data-Structures-Level2\Observable-Collections\Observable-Collections\obj\Debug\Observable-Collections.exe
-C:\Users\m7ama\OneDrive\Desktop\Course22\Course22-Data-Structures-Level2\Observable-Collections\Observable-Collections\obj\Debug\Observable-Collections.pdb

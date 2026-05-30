@@ -1,7 +1,0 @@
-C:\Users\m7ama\source\repos\DataStructuresRev\DataStructuresRev\bin\Debug\DataStructuresRev.exe.config
-C:\Users\m7ama\source\repos\DataStructuresRev\DataStructuresRev\bin\Debug\DataStructuresRev.exe
-C:\Users\m7ama\source\repos\DataStructuresRev\DataStructuresRev\bin\Debug\DataStructuresRev.pdb
-C:\Users\m7ama\source\repos\DataStructuresRev\DataStructuresRev\obj\Debug\DataStructuresRev.csproj.AssemblyReference.cache
-C:\Users\m7ama\source\repos\DataStructuresRev\DataStructuresRev\obj\Debug\DataStructuresRev.csproj.CoreCompileInputs.cache
-C:\Users\m7ama\source\repos\DataStructuresRev\DataStructuresRev\obj\Debug\DataStructuresRev.exe
-C:\Users\m7ama\source\repos\DataStructuresRev\DataStructuresRev\obj\Debug\DataStructuresRev.pdb

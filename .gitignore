@@ -3,6 +3,4 @@ obj/
 .vs/
 *.slnx
 *.user
-Properties/
-*.config
 *.csproj

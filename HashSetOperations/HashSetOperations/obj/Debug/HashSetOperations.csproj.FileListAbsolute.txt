@@ -1,7 +1,0 @@
-C:\Users\m7ama\OneDrive\Desktop\Course22\Course22-Data-Structures-Level2\HashSetOperations\HashSetOperations\bin\Debug\HashSetOperations.exe.config
-C:\Users\m7ama\OneDrive\Desktop\Course22\Course22-Data-Structures-Level2\HashSetOperations\HashSetOperations\bin\Debug\HashSetOperations.exe
-C:\Users\m7ama\OneDrive\Desktop\Course22\Course22-Data-Structures-Level2\HashSetOperations\HashSetOperations\bin\Debug\HashSetOperations.pdb
-C:\Users\m7ama\OneDrive\Desktop\Course22\Course22-Data-Structures-Level2\HashSetOperations\HashSetOperations\obj\Debug\HashSetOperations.csproj.AssemblyReference.cache
-C:\Users\m7ama\OneDrive\Desktop\Course22\Course22-Data-Structures-Level2\HashSetOperations\HashSetOperations\obj\Debug\HashSetOperations.csproj.CoreCompileInputs.cache
-C:\Users\m7ama\OneDrive\Desktop\Course22\Course22-Data-Structures-Level2\HashSetOperations\HashSetOperations\obj\Debug\HashSetOperations.exe
-C:\Users\m7ama\OneDrive\Desktop\Course22\Course22-Data-Structures-Level2\HashSetOperations\HashSetOperations\obj\Debug\HashSetOperations.pdb
